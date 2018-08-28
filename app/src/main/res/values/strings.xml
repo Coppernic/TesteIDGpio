@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Test e-ID Gpio</string>
+    <string name="gpio_3">EXTERNAL GPIO 3</string>
+    <string name="usb_id">USB ID</string>
+    <string name="usb_en">USB EN</string>
+    <string name="external_en">EXTERNAL EN</string>
+
+    <string name="usb_gpio_1">USB GPIO 1</string>
+    <string name="usb_gpio_2">USB GPIO 2</string>
+    <string name="usb_gpio_3">USB GPIO 3</string>
+    <string name="usb_gpio_4">USB GPIO 4</string>
+
+    <string name="request_usb_permission">Request USB permission for USB GPIO</string>
+</resources>
